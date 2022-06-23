@@ -20,3 +20,8 @@ I am interested in modern frontend, as well as backend in .NET and Node.JS.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LipatovAlexander&include_all_commits=true&hide=stars,issues)](https://github.com/LipatovAlexander/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LipatovAlexander&layout=compact)](https://github.com/LipatovAlexander/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LipatovAlexander.LipatovAlexander&left_color=gray&right_color=blue)
