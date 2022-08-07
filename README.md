@@ -41,6 +41,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LipatovAlexander&layout=compact)](https://github.com/LipatovAlexander/github-readme-stats)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ASLipatov)
