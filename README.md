@@ -35,11 +35,6 @@
 
 <h3>↗️ Stats</h3>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LipatovAlexander&include_all_commits=true&hide=stars,issues)](https://github.com/LipatovAlexander/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LipatovAlexander&layout=compact)](https://github.com/LipatovAlexander/github-readme-stats)
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%204%20mins-blue)
