@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi there</h1>
-<img align="right" alt="GIF2" src="https://user-images.githubusercontent.com/77479370/183249372-b46e9216-d622-4f3a-ad67-84b1a2c3049c.gif" width="300"/>
+<img align="right" alt="GIF2" src="https://user-images.githubusercontent.com/77479370/183249372-b46e9216-d622-4f3a-ad67-84b1a2c3049c.gif" width="325"/>
 
 
 <h3>🧐 About me</h3>
