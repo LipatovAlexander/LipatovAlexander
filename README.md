@@ -45,13 +45,13 @@
 
 > 🏆 1,121 Contributions in the Year 2022
  > 
-> 📦 16.9 kB Used in GitHub's Storage 
+> 📦 102.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I Mostly Code in C#** 
 
