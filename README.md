@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-707%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-708%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 60 Contributions in the Year 2023
+> 🏆 75 Contributions in the Year 2023
  > 
-> 📦 107.7 kB Used in GitHub's Storage 
+> 📦 108.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,8 +56,8 @@
 **I Mostly Code in C#** 
 
 ```text
-C#                       17 repos            █████████████████░░░░░░░░   68.0% 
-TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+C#                       18 repos            ██████████████████░░░░░░░   72.0% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
 F#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
