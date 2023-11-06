@@ -37,7 +37,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,7 +47,7 @@
 
 > 📦 740.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,711 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
