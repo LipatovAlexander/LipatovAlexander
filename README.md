@@ -47,8 +47,6 @@
 
 > 📦 809.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -82,16 +80,16 @@ Sunday                   420 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C#                       15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tilly                    15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
