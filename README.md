@@ -97,11 +97,11 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       24 repos            █████████████████░░░░░░░░   68.57 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+C#                       23 repos            █████████████████░░░░░░░░   67.65 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
