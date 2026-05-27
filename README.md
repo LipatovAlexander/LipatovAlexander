@@ -47,11 +47,11 @@
 
 > 📦 854.4 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -97,11 +97,11 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       24 repos            █████████████████░░░░░░░░   66.67 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+C#                       24 repos            ████████████████░░░░░░░░░   63.16 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
