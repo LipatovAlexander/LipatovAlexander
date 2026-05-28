@@ -37,8 +37,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.43%20million%20lines%20of%20code-blue?style=flat)
@@ -55,45 +53,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-🌆 Daytime                574 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-🌃 Evening                1023 commits        ███████████░░░░░░░░░░░░░░   44.23 % 
-🌙 Night                  528 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Tuesday                  318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Thursday                 289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Friday                   158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Saturday                 463 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Sunday                   485 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
